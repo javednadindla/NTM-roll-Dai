@@ -1,0 +1,9 @@
+#include<stdio.c>
+int main ()
+{
+int d,e,f,g,h.i.j;
+int d = 158.75 , int e = 158.75 , int f = 158.75 , int g = 158.75 , int h = 158.75 , int i = 158.75 , int j = 158.75;
+printf("d,e,f,g,h,i,j\n");
+return (0);
+}
+
